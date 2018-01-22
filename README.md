@@ -4,27 +4,35 @@ Fill in the text below with your own answers to each question. Each person in yo
 ## About You
 What are your names as they appear on the class roster?
 > Lukas Resch
+> Eleanor (Ella) Nicolson
 
 What do you prefer to be called?
 > Lukas or Lucky
+> Ella
 
 What are your GitHub usernames?
 > Lukas lukasclimbs
+> Ella: GingerElla
 
 Why are you taking this course?
 > Lukas: It is required for my major, I like Charlie, and operating systems just sounds like a cool term.
+> Ella: Required, operating systems seem interesting.
 
 Do you have any concerns about this course?
 > Lukas: This is my first CS course since last spring so i'm a little hesitant, but excited!
+> Ella: C is not my favorite.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
 > Lukas: Locks, because of the password cracker lab!
+> Ella: The project sounds like a lot of fun.
 
 Do you have any questions about the course?
 > Lukas: Nope!
+> Ella: No
 
 Do you have any other questions for me?
 > Lukas: Nope!
+> Ella: No
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
@@ -47,3 +55,4 @@ Where can you find our course textbook?
 
 When are you free during my scheduled office hours?
 > Lukas: Monday 10AM-11AM
+> Ella: Friday (4:00pm-5:00pm)
