@@ -3,46 +3,47 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> ...
+> Lukas Resch
 
 What do you prefer to be called?
-> ...
+> Lukas or Lucky
 
 What are your GitHub usernames?
-> ...
+> Lukas lukasclimbs
 
 Why are you taking this course?
-> ...
+> Lukas: It is required for my major, I like Charlie, and operating systems just sounds like a cool term.
 
 Do you have any concerns about this course?
-> ...
+> Lukas: This is my first CS course since last spring so i'm a little hesitant, but excited!
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> ...
+> Lukas: Locks, because of the password cracker lab!
 
 Do you have any questions about the course?
-> ...
+> Lukas: Nope!
 
 Do you have any other questions for me?
-> ...
+> Lukas: Nope!
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
 
 What work will contribute to your grade in this class?
-> ...
+> Participation, Assignments, Project, Labs
+
 
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
-> ...
+> Nothing unless 1. it's a lab day (20% deduction from the lab) and 2. You use the alarm excuse too much. Poor attendance will also affect participation.
 
 What happens if you turn in a lab late?
-> ...
+> One letter gtrade deduction (10%) per day it is late.
 
 On what day will you give a presentation on your final project for this course?
-> ...
+> During the last week!
 
 Where can you find our course textbook?
-> ...
+> For free online (check the syllabus).
 
 When are you free during my scheduled office hours?
-> ...
+> Lukas: Monday 10AM-11AM
